@@ -1,2 +1,5 @@
 Place="Chennai"
 This is capital of Tamilnadu
+Place="Madurai"
+This is famous for flowers
+place="Trichy"
